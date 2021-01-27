@@ -27,7 +27,13 @@ https://www.tutorialspoint.com/pyqt5/
 
 12.) PyQt5_QMenuBarQMenuQActionWidgets.py
 
-13.) 
+13.) PyQt5_QToolBarWidget.py
+
+14.) PyQt5_QInputDialogWidget.py
+
+15.) PyQt5_QFontDialogWidget.py
+
+16.) 
 
 
 

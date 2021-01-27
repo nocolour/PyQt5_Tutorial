@@ -3,19 +3,34 @@ PyQt5 sample codes
 
 https://www.tutorialspoint.com/pyqt5/
 
-1.) PyQt5_HelloWorld.py, PyQt5_HelloWorld_class.py
+01.) PyQt5_HelloWorld.py, PyQt5_HelloWorld_class.py
 
-2.) PyQt5_QtDesign_sample.py with QtDesign_sample.ui
+02.) PyQt5_QtDesign_sample.py with QtDesign_sample.ui
 
-3.) PyQt5_signal-slot.py
+03.) PyQt5_signal-slot.py
 
-4.) PyQt5_QLabelWidget.py
+04.) PyQt5_QLabelWidget.py
 
-5.) PyQt5_QLineEditWidget.py
+05.) PyQt5_QLineEditWidget.py
 
-6.) PyQt5_QPushButtonWidget.py
+06.) PyQt5_QPushButtonWidget.py
 
-7.) PyQt5_QRadioButtonWidget.py
+07.) PyQt5_QRadioButtonWidget.py
+
+08.) PyQt5_QCheckBoxWidget.py
+
+09.) PyQt5_QComboBoxWidget.py
+
+10.) PyQt5_QSpinBoxWidget.py
+
+11.) PyQt5_QSliderWidgetSignal.py
+
+12.) PyQt5_QMenuBarQMenuQActionWidgets.py
+
+13.) 
+
+
+
 
 
 

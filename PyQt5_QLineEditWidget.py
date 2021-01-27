@@ -10,7 +10,7 @@ def window():
 
     e1 = QLineEdit()
     e1.setValidator(QIntValidator())
-    e1.setMaxLength(4)
+    e1.setMaxLength(8)
     e1.setAlignment(Qt.AlignRight)
     e1.setFont(QFont("Arial", 20))
 

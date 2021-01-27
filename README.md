@@ -13,4 +13,8 @@ https://www.tutorialspoint.com/pyqt5/
 
 5.) PyQt5_QLineEditWidget.py
 
+6.) PyQt5_QPushButtonWidget.py
+
+
+
 

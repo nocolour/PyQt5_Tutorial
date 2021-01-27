@@ -9,6 +9,8 @@ https://www.tutorialspoint.com/pyqt5/
 
 3.) PyQt5_signal-slot.py
 
-4.)
+4.)PyQt5_QLabelWidget.py
+
+
 
 

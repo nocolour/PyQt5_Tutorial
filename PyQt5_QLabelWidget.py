@@ -20,7 +20,7 @@ def window():
     l1.setAlignment(Qt.AlignCenter)
     l3.setAlignment(Qt.AlignCenter)
     l4.setAlignment(Qt.AlignRight)
-    l3.setPixmap(QPixmap("python.jpg"))
+    l3.setPixmap(QPixmap("pics/python.jpg"))
 
     vbox = QVBoxLayout()
     vbox.addWidget(l1)

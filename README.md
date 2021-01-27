@@ -15,6 +15,7 @@ https://www.tutorialspoint.com/pyqt5/
 
 6.) PyQt5_QPushButtonWidget.py
 
+7.) PyQt5_QRadioButtonWidget.py
 
 
 

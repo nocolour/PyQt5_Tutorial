@@ -7,5 +7,8 @@ https://www.tutorialspoint.com/pyqt5/
 
 2.) PyQt5_QtDesign_sample.py with QtDesign_sample.ui
 
-3.)
+3.) PyQt5_signal-slot.py
+
+4.)
+
 

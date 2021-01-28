@@ -61,6 +61,8 @@ https://www.tutorialspoint.com/pyqt5/
 
 29.) PyQt5_DrawingAPI.py
 
+30.) PyQt5_QClipboard.py
+
 
 
 

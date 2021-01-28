@@ -55,6 +55,10 @@ https://www.tutorialspoint.com/pyqt5/
 
 26.) PyQt5_MultipleDocumentInterface.py
 
+27.) PQyt5_DragDrop.py
+
+
+
 
 
 

@@ -57,6 +57,8 @@ https://www.tutorialspoint.com/pyqt5/
 
 27.) PQyt5_DragDrop.py
 
+28.) PyQt5_DatabaseHandling-1.py, PyQt5_DatabaseHandling-2.py
+
 
 
 

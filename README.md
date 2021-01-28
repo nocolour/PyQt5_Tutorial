@@ -39,7 +39,9 @@ https://www.tutorialspoint.com/pyqt5/
 
 18.) PyQt5_QStackedWidget.py
 
-19.) 
+19.) PyQt5_QSplitterWidget.py
+
+20.)
 
 
 

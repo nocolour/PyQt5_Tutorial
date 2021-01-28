@@ -43,6 +43,10 @@ https://www.tutorialspoint.com/pyqt5/
 
 20.) PyQt5_QDockWidget.py
 
+21.) PyQt5_QStatusBarWidget.py
+
+22.)
+
 
 
 

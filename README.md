@@ -37,6 +37,10 @@ https://www.tutorialspoint.com/pyqt5/
 
 17.) PyQt5_QTabWidget.py
 
+18.) PyQt5_QStackedWidget.py
+
+19.) 
+
 
 
 

@@ -35,7 +35,7 @@ https://www.tutorialspoint.com/pyqt5/
 
 16.) PyQt5_QFileDialogWidget.py
 
-17.) 
+17.) PyQt5_QTabWidget.py
 
 
 

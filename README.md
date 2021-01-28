@@ -51,7 +51,7 @@ https://www.tutorialspoint.com/pyqt5/
 
 24.) PyQt5_QDialogClass.py
 
-25.)
+25.) PyQt5_QMessageBox.py
 
 
 

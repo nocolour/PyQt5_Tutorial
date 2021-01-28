@@ -53,6 +53,10 @@ https://www.tutorialspoint.com/pyqt5/
 
 25.) PyQt5_QMessageBox.py
 
+26.) PyQt5_MultipleDocumentInterface.py
+
+
+
 
 
 

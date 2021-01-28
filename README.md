@@ -45,7 +45,9 @@ https://www.tutorialspoint.com/pyqt5/
 
 21.) PyQt5_QStatusBarWidget.py
 
-22.)
+22.) PyQt5_QScrollBarWidget.PY
+
+
 
 
 

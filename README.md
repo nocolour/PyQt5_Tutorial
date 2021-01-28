@@ -47,6 +47,8 @@ https://www.tutorialspoint.com/pyqt5/
 
 22.) PyQt5_QScrollBarWidget.PY
 
+23.) PyQt5_QCalendarWidget.py
+
 
 
 

@@ -63,6 +63,8 @@ https://www.tutorialspoint.com/pyqt5/
 
 30.) PyQt5_QClipboard.py
 
+31.) PyQt5_QPixmapClass.py
+
 
 
 

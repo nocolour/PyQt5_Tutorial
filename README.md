@@ -49,6 +49,10 @@ https://www.tutorialspoint.com/pyqt5/
 
 23.) PyQt5_QCalendarWidget.py
 
+24.) PyQt5_QDialogClass.py
+
+25.)
+
 
 
 

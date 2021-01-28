@@ -23,7 +23,7 @@ class statusdemo(QMainWindow):
 
     def processtrigger(self, q):
 
-        if (q.text() == "show"):
+        if q.text() == "show":
             self.statusBar.showMessage(q.text() + " is clicked", 2000)
 
         if q.text() == "add":
